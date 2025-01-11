@@ -1,0 +1,25 @@
+{
+  "name": "quantumcommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRNBH/QuantumCommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRNBH/QuantumCommerce/issues"
+  },
+  "homepage": "https://github.com/PRNBH/QuantumCommerce#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
